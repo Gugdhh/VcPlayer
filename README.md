@@ -5,7 +5,7 @@
 ### ⚠️ This Project Is Now Maintained By An Bot So If You Have Any Questions/Reports Chat Us On <a href="https://t.me/DevsChats">Telegram</a>. 
 
 <p align="center">
-  <a href="https://github.com/vivek-tp/vc-player">
+  <a href="https://github.com/Gugdhh/vc-player">
      <img height="30px" src="https://img.shields.io/badge/VC%20Player%20Bot-black?style=for-the-badge&logo=github">
   </a>
 </p>
